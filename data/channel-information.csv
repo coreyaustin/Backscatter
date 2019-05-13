@@ -1,0 +1,16 @@
+Channel,Type,Frametype,Sample rate,Units
+L1:ISI-GND_STS_ETMX_X_DQ,Raw,L1_R [raw data],512 Hz,nm / s
+L1:ISI-GND_STS_ETMX_Y_DQ,Raw,L1_R [raw data],512 Hz,nm / s
+L1:ISI-GND_STS_ETMX_Z_DQ,Raw,L1_R [raw data],512 Hz,nm / s
+L1:ISI-GND_STS_ETMY_X_DQ,Raw,L1_R [raw data],512 Hz,nm / s
+L1:ISI-GND_STS_ETMY_Y_DQ,Raw,L1_R [raw data],512 Hz,nm / s
+L1:ISI-GND_STS_ETMY_Z_DQ,Raw,L1_R [raw data],512 Hz,nm / s
+L1:ISI-GND_STS_HAM5_X_DQ,Raw,L1_R [raw data],512 Hz,nm / s
+L1:ISI-GND_STS_HAM5_Y_DQ,Raw,L1_R [raw data],512 Hz,nm / s
+L1:ISI-GND_STS_HAM5_Z_DQ,Raw,L1_R [raw data],512 Hz,nm / s
+L1:ISI-GND_STS_ITMX_X_DQ,Raw,L1_R [raw data],512 Hz,nm / s
+L1:ISI-GND_STS_ITMX_Y_DQ,Raw,L1_R [raw data],512 Hz,nm / s
+L1:ISI-GND_STS_ITMX_Z_DQ,Raw,L1_R [raw data],512 Hz,nm / s
+L1:ISI-GND_STS_ITMY_X_DQ,Raw,L1_R [raw data],512 Hz,nm / s
+L1:ISI-GND_STS_ITMY_Y_DQ,Raw,L1_R [raw data],512 Hz,nm / s
+L1:ISI-GND_STS_ITMY_Z_DQ,Raw,L1_R [raw data],512 Hz,nm / s
